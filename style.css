@@ -1,0 +1,86 @@
+/* *{
+}
+nav{
+    border: 1px solid gray;
+    background-color: rgb(95, 86, 86);
+    font-size: 40px;
+}
+li{
+    color: aliceblue;
+    display: inline;
+    margin: 15px;
+
+}
+p{
+    font-size: 100px;
+}
+.flower-img{
+    position: relative;
+    bottom: 200px;
+} */
+
+.center{
+    text-align: center;
+}
+.font{
+    font-family: "Gill Sans", sans-serif;
+}
+h1.font{
+    font-size: 30px;
+    font-weight: 400;
+}
+h3.font{
+    font-size: 25px;
+    font-weight: 600;
+}
+p.font{
+    font-size: medium;
+}
+/* .font-size{
+    font-size: medium;
+} */
+.margin{
+    margin-top: 10px;
+}
+
+hr{
+    margin-top:30px ;
+    margin-bottom: 30px;
+    height: 3px;
+    background-color: black;
+}
+.content{
+    margin-left:450px ;
+}
+.des{
+    margin-left: 20px;
+}
+div.line{
+    border-left: 6px solid black;
+    height: 60px;
+    padding: 5px;
+    margin-top: 15px;
+    display: inline-block;
+
+}
+.inline{
+    height: 90px;
+    padding: 5px;
+    /* margin-top: 15px;
+    margin-bottom: 15px; */
+    position: relative;
+    bottom: 20px;
+    display: inline-block;
+}
+div.inline b {
+    margin-left: 20px;
+    position: relative;
+    bottom: 25px;
+}
+.list{
+    margin-left: 20px;
+    list-style-type: square;
+}
+.list li{
+    margin-top:10px ;
+}
